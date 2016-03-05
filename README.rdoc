@@ -1,2 +1,8 @@
 Toy App from Rails Tutorial Book.
 Hosted on: http://floating-plateau-52682.herokuapp.com/
+Used to learn:
+-High-level overview of Rails
+-Introduction to MVC
+-First taste of the REST architecture
+-Beginning data modeling
+-A live, database-backed web application in production
